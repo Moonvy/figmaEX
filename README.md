@@ -6,7 +6,7 @@
  [Discussion](https://github.com/staff-moonvy/figmaEX/discussions)
 
 <p align="center">
-  <img src="https://github.com/staff-moonvy/figmaEX/raw/main/cover.png" width="240"></img>
+  <img src="https://github.com/staff-moonvy/figmaEX/raw/main/cover.png" width="720"></img>
 </p>
 
 
