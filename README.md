@@ -16,5 +16,5 @@
 
 - Although we have "Figma" in our name, we have NO official affiliation with Figma Inc.
 - Your data is completely private, without any third-party network requests and without analysis.
-- Because include private code block module, not yet ready for open source, 
+- Because include private package, not yet ready for open source, 
   **When we are completely ready figmaEx will be open source, as soon **
