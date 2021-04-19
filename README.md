@@ -18,3 +18,4 @@
 - Your data is completely private, without any third-party network requests and without analysis.
 - Because include private package, not yet ready for open source, 
   **When we are completely ready figmaEx will be open source, as soon **
+- Free forever.
