@@ -18,11 +18,11 @@ Many thanks to the  translators:
 
 Code|Language|Author
 ---|---|---
-zh-cn| Simplified Chinese| [moonvy](https://twitter.com/MoonvyDesign)
+zh-cn| Chinese Simplified| [moonvy](https://twitter.com/MoonvyDesign)
+zh-hk| Chinese Traditional| [秋夜AuNight](http://www.aunight.pw)
 en| English| [moonvy](https://twitter.com/MoonvyDesign),  [Mr. Biscuit](https://twitter.com/SShuaiqi) 
 ru| Russian| [Gleb Sabirzyanov](https://twitter.com/zyumbik) ,  [Mr. Biscuit](https://twitter.com/SShuaiqi) 
 
- 
  
  
 **This repository is currently only used as a  [discussion forum](https://github.com/staff-moonvy/figmaEX/discussions)** 
