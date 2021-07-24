@@ -24,11 +24,11 @@
     "关于": "Sobre nosotros",
     "Moonvy": "Moonvy",
     "Sponsor": "Sponsor",
-    "已创建同步用图层，在他设备打开此 Figma 文档后点击「导入配置」": "Config Layer Created, open this Figma file on another device and click [Import Config]",
-    "已从当前 Figma 文档经载入 FigmaEX 配置。你可以删除 FigmaEX_Config_Sync 了": "Config loaded. You can now delete the FigmaEX_Config_Sync layer",
-    "FigmaEX 配置无效。你可以删除 FigmaEX_Config_Sync 了": "The FigmaEX Config is invalid. Delete the FigmaEX_Config_Sync layer and try again",
-    "没有从当前 Figma 文档找到 FigmaEX 的配置": "No FigmaEX Config was found from in the current Figma file. Export config first by pressing [Export Config].",
-    "FigmaEX 新版本将在刷新页面后生效": "A new version of FIgmaEX is found, please refresh the page.",
+    "已创建同步用图层，在他设备打开此 Figma 文档后点击「导入配置」": "Capa FigmaEX_Config_Sync creada, abre este archivo de Figma en otro dispositivo y haz clic en [Import Config]",
+    "已从当前 Figma 文档经载入 FigmaEX 配置。你可以删除 FigmaEX_Config_Sync 了": "Configuración cargada. Ahora puedes borrar la capa FigmaEX_Config_Sync",
+    "FigmaEX 配置无效。你可以删除 FigmaEX_Config_Sync 了": "La configuración de FigmaEX ha fallado. Borra la capa FigmaEX_Config_Sync y vuelve a intentarlo",
+    "没有从当前 Figma 文档找到 FigmaEX 的配置": "No se ha encontrado configuración de FigmaEX en el archivo de Figma actual. Exporta primero la configuración pulsando [Export Config].",
+    "FigmaEX 新版本将在刷新页面后生效": "Se ha encontrado una nueva versión de FigmaEX, por favor actualiza la página.",
     "立即刷新": "Actualizar ahora",
     "知道了": "Más tarde"
 }
