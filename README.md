@@ -8,7 +8,7 @@
 ## Version Restrictions
 Because of the restrictions added to Figma Desktop App v101.6 and above
 Cannot be installed on Figma Desktop App v101.6 or above 
-If you need to use it, please download the lower version of Figma client.
+If you need to use it, please download the lower version of Figma Desktop App.
 
 
  [Discussion](https://github.com/staff-moonvy/figmaEX/discussions) | [FigmaEX](https://moonvy.com/figmaEX/) | [Releases](https://github.com/Moonvy/figmaEX/releases)
