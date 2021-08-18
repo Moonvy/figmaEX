@@ -3,7 +3,7 @@
 
 # FigmaEX  Discussion
 
- [Download](https://github.com/Moonvy/figmaEX/releases
+ [Download](https://github.com/Moonvy/figmaEX/releases)
  
 ## Version Restrictions
 Because of the restrictions added to Figma Desktop App v101.6 and above
