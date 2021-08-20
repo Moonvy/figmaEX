@@ -1,3 +1,5 @@
+# How to Install for Figma Desktop
+
 Because of the restrictions added to Figma Desktop App v101.6 and above Cannot be installed on Figma Desktop App v101.6 or above If you need to use it, please download the lower version of Figma Desktop App.
 
 Download Figma 99 below verison:
