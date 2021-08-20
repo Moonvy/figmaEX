@@ -13,3 +13,5 @@ Download Figma 99 below verison:
 Run FigmaEX installer without running Figma
 
 > on Windows Put FigmaEX Installer in the same folder as Figma
+
+For Figma features, the low version client is the same as the latest version client
