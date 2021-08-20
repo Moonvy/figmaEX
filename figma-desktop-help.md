@@ -8,4 +8,6 @@ Download Figma 99 below verison:
 - https://www.filehorse.com/download-figma/
 
 
+Run FigmaEX installer without running Figma
+
 > on Windows Put FigmaEX Installer in the same folder as Figma
