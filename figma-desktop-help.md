@@ -4,8 +4,8 @@ Because of the restrictions added to Figma Desktop App v101.6 and above Cannot b
 
 1. Download Figma 99 below verison:
 
-- https://gitee.com/kogoro/figma-download-mirror
 - https://github.com/kogoro-mouri/Figma-Download-Mirror
+- https://gitee.com/kogoro/figma-download-mirror
 - https://figma.software.informer.com/download/
 - https://www.filehorse.com/download-figma/
 
