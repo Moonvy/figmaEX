@@ -30,5 +30,19 @@
     "没有从当前 Figma 文档找到 FigmaEX 的配置": "No FigmaEX Config was found from in the current Figma file. Export config first by pressing [Export Config].",
     "FigmaEX 新版本将在刷新页面后生效": "A new version of FIgmaEX is found, please refresh the page.",
     "立即刷新": "Refresh Now",
-    "知道了": "Later"
+    "知道了": "Later",
+    "搜索": "Search",
+    "字体选择器": "Font Selector",
+    "开启": "enable",
+    "预览文字": "preview text",
+    "需要安装 Figma 官方的字体支持工具": "font support tool is required.",
+    "示例与指南": "Sample",
+    "皮肤 CSS": "Skin CSS",
+    "在市场中搜索插件": "Search all in the community",
+    "前往详情页": "Details",
+    "标星置顶": "Top",
+    "运行...": "Run...",
+    "（支持中文关键词）": "",
+    "在市场中搜索插件": "Search in community",
+    "智能搜索": "Search"
 }
