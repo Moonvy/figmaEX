@@ -4,7 +4,8 @@
 # FigmaEX  Discussion
 
  [Download](https://github.com/Moonvy/figmaEX/releases)
- [Chrome Extions](https://chromewebstore.google.com/detail/figmaex/dimbmiiiefochhhipipkphcfjckchhjd)
+  | 
+ [Chrome Extension](https://chromewebstore.google.com/detail/figmaex/dimbmiiiefochhhipipkphcfjckchhjd)
  
 ## Version Restrictions
 Because of the restrictions added to Figma Desktop App v101.6 and above
